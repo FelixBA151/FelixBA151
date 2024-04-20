@@ -1,4 +1,4 @@
-<h1 align="center">Felix Barrios Aeberhard</h1>
+<h1 align="center">Félix Barrios Aeberhard</h1>
 
 <!--
 **FelixBA151/FelixBA151** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
